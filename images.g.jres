@@ -1,0 +1,17 @@
+{
+    "_7lPar}l8/J`1son^j8P": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgZmZmZmZmZmAAAAAGAGAAYGBgAAYAYABgAAAGBgBgAGAABgYGAGAAYAAABgYAYABgYGAABgBgAGAAAAAGAGAAYGZmZmZmZmYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "MainCharacter"
+    },
+    "ri@,7ot;1pP|s83=)ubZ": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgIiIAAAAAACAAIAAAAAAAICAgIgAAAAAgACAAAAAAACAgIAAAAAAAIAAgIgAAAAAgIiIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "MainEnemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
